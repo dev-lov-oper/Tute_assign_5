@@ -16,3 +16,5 @@ list[:5] uses slicing to take elements from index 0 up to (but not including) in
 list[5:] takes elements starting from index 5 till the end → last 5 elements.
 
 Python slicing is zero-based and the end index is always excluded.
+
+Checkout master branch for codes
